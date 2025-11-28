@@ -1,14 +1,9 @@
-# **Présentation – Programme TIM**  
+# **Présentation – Programme TIM Diapositive 1**  
 **Nom : Nguyen  
 **Prénom : Phu Thanh  
 **Titre : TP2 PRESENTATION
 **Cours : Technique Multimedia  
 **Session Session 01/ Cours 10  
-
----
-
-## Diapositive 1 — Page de titre  
-> *(Transition : fondu simple)*
 
 ---
 
@@ -21,19 +16,15 @@
 ![Image liée à la motivation](lien-de-l-image)  
 *Source : [Nom de la source]*
 
-> *(Animation : apparition du texte en décalé)*
-
 ---
 
 ## Diapositive 3 — Mon profil multimédia  
-**Type de profil :** créatif / technique / hybride  
+**Creatif 
 - *[Explication : pourquoi ce profil te correspond]*
 
 **Image 2 :**  
 ![Image du domaine](lien-de-l-image)  
 *Source : [Nom de la source]*
-
-> *(Transition : glissement horizontal)*
 
 ---
 
