@@ -88,6 +88,10 @@ Creatif
 -En conclusion, c’est que je veux être dans le 3D et moins sur les affaires trop technicals. De plus, de savoir ou d’aller avec certitude à cause du questionnaire.
 ---
 
+## Mooboard
 
+---
+## Diagramme et carte mentale
+![file:///C:/Users/ChingChong19/Downloads/diagramme_carte.svg)
 
 
