@@ -42,7 +42,7 @@ Creatif
 -Socialisation
 -Tergivaser
 -Travail d'equipe
-*Ce que je remarque en moi, la faiblesse majeure c’est de socialiser avec d’autres gens autour de moi. Car, une grande majorité des métiers, le travail d’équipe est le plus important.*
+-Ce que je remarque en moi, la faiblesse majeure c’est de socialiser avec d’autres gens autour de moi. Car, une grande majorité des métiers, le travail d’équipe est le plus important.*
 
 ---
 
