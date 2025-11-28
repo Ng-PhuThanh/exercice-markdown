@@ -12,8 +12,7 @@ Session Session 01/ Cours 10
 -Creation
 -Jeux video
 -Architecture
--Imagination
-- *[Inspirations ou personnes qui t’ont influencé]*  
+-Imagination 
 
 **Image 1 :**  
 ![Image liée à la motivation](lien-de-l-image)  
@@ -51,16 +50,14 @@ Creatif
 -Je me vois faire ce métier 24/7 sans de problème a deux heures du matin. Juste d’avoir l’idée de permet à créer des affaires, c’est comme me demander à jouer Minecraft quand j’étais un enfant. La création et les détails misent pour ce domaine sont fortement mon type de métier que je voudrais faire.
 
 **Image 3 :**  
-![Domaine préféré](lien-de-l-image)  
--*Contenu audiovisuel*
--Selon moi, je ne serai pas capable d’aimer ou apprécier ce domaine, a cause que je suis plus visuel que l’écoute.
-
+![Image du domaine](lien-de-l-image)  
+*Source : [Nom de la source]*
 
 ---
 
 ## Diapositive 7 — Mon domaine multimédia le moins préféré  
-- *[Ex : Programmation, retouche photo, vidéo…]*  
-- *Raison : ce qui correspond moins à ta personnalité ou ton style.*
+-*Contenu audiovisuel*  
+-Selon moi, je ne serai pas capable d’aimer ou apprécier ce domaine, a cause que je suis plus visuel que l’écoute.
 
 **Image 4 :**  
 ![Domaine moins préféré](lien-de-l-image)  
