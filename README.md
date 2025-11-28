@@ -22,7 +22,7 @@ Aller dans les jeux videos
 
 ## Diapositive 3 — Mon profil multimédia  
 Creatif 
--Je serai plus à l’aise sur la créativité plus que les taches techniques, car mes forces personnelles telles que la créativité, l’imagination et etc. Ils sont plus en lien avec ce côté que l’autre. De plus, les affaires créatives sont plus intéressantes que les taches techniques.
+- Je serai plus à l’aise sur la créativité plus que les taches techniques, car mes forces personnelles telles que la créativité, l’imagination et etc. Ils sont plus en lien avec ce côté que l’autre. De plus, les affaires créatives sont plus intéressantes que les taches techniques.
 
 
 **Image 2 :**  
