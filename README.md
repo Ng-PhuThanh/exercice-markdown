@@ -23,9 +23,8 @@ Session Session 01/ Cours 10
 
 ## Diapositive 3 — Mon profil multimédia  
 Creatif 
-- *Je serai plus à l’aise sur la créativité plus que les taches techniques, car mes forces personnelles telles que la créativité, l’imagination et etc. Ils sont plus en lien avec ce côté que l’autre. De plus, les affaires créatives sont plus intéressantes que les taches techniques.
-<img width="4679" height="81" alt="image" src="https://github.com/user-attachments/assets/93f81e9a-459a-4e57-a647-f723df888952" />
-*
+-Je serai plus à l’aise sur la créativité plus que les taches techniques, car mes forces personnelles telles que la créativité, l’imagination et etc. Ils sont plus en lien avec ce côté que l’autre. De plus, les affaires créatives sont plus intéressantes que les taches techniques.
+
 
 **Image 2 :**  
 ![Image du domaine](lien-de-l-image)  
