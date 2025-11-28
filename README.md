@@ -8,8 +8,13 @@ Session Session 01/ Cours 10
 ---
 
 ## Diapositive 2 — Pourquoi j’ai choisi le programme TIM  
-- *[Motivation personnelle]*  
-- *[Intérêts : jeu vidéo, 3D, programmation, design, etc.]*  
+- Aller dans les jeux videos  
+- *Creation
+Jeux video
+Architecture
+Imagination
+<img width="308" height="216" alt="image" src="https://github.com/user-attachments/assets/9763d550-3116-4de2-b39c-5d5a9c9ab884" />
+*  
 - *[Inspirations ou personnes qui t’ont influencé]*  
 
 **Image 1 :**  
@@ -19,8 +24,10 @@ Session Session 01/ Cours 10
 ---
 
 ## Diapositive 3 — Mon profil multimédia  
-**Creatif 
-- *[Explication : pourquoi ce profil te correspond]*
+Creatif 
+- *Je serai plus à l’aise sur la créativité plus que les taches techniques, car mes forces personnelles telles que la créativité, l’imagination et etc. Ils sont plus en lien avec ce côté que l’autre. De plus, les affaires créatives sont plus intéressantes que les taches techniques.
+<img width="4679" height="81" alt="image" src="https://github.com/user-attachments/assets/93f81e9a-459a-4e57-a647-f723df888952" />
+*
 
 **Image 2 :**  
 ![Image du domaine](lien-de-l-image)  
@@ -31,11 +38,7 @@ Session Session 01/ Cours 10
 ## Diapositive 4 — Mes forces  
 - Creation
 - Imagination  
-- Perfectionniste  
-- *[Compétences ou qualités concrètes]*  
-
-> *(Animation : points qui apparaissent un par un)*
-
+- Perfectionniste    
 ---
 
 ## Diapositive 5 — Mes faiblesses  
