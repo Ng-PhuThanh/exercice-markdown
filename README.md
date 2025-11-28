@@ -39,24 +39,22 @@ Creatif
 ---
 
 ## Diapositive 5 — Mes faiblesses  
-- *[Faiblesse 1 à améliorer]*  
-- *[Défi personnel]*  
-- *[Stratégie pour progresser]*  
-
-> *(Transition : fondu rapide)*
+-Socialisation
+-Tergivaser
+-Travail d'equipe
+*Ce que je remarque en moi, la faiblesse majeure c’est de socialiser avec d’autres gens autour de moi. Car, une grande majorité des métiers, le travail d’équipe est le plus important.*
 
 ---
 
 ## Diapositive 6 — Mon domaine multimédia préféré  
-- *[Ex : Animation 3D, Web, Jeux vidéo, Design, Montage…]*  
-- *Pourquoi ce domaine t’attire ?*  
-- *Lien avec ton style de travail ou ta créativité.*
+- *Animation 3D*  
+-Je me vois faire ce métier 24/7 sans de problème a deux heures du matin. Juste d’avoir l’idée de permet à créer des affaires, c’est comme me demander à jouer Minecraft quand j’étais un enfant. La création et les détails misent pour ce domaine sont fortement mon type de métier que je voudrais faire.
 
 **Image 3 :**  
 ![Domaine préféré](lien-de-l-image)  
-*Source : [Nom de la source]*
+-*Contenu audiovisuel*
+-Selon moi, je ne serai pas capable d’aimer ou apprécier ce domaine, a cause que je suis plus visuel que l’écoute.
 
-> *(Animation : zoom entrant)*
 
 ---
 
@@ -68,20 +66,15 @@ Creatif
 ![Domaine moins préféré](lien-de-l-image)  
 *Source : [Nom de la source]*
 
-> *(Transition : glissement vers le haut)*
-
 ---
 
 ## Diapositive 8 — Mon premier choix de carrière ou d’études  
-- *[Ex : Animateur 3D, UX Designer, Programmeur, Artiste VFX…]*  
-- Lien avec ton profil multimédia  
-- *Pourquoi ce choix te motive ?*
+- *Animateur 3D*  
+-Pas de question, ca sera le métier que je me retrouverai dans le futur a cause que c’est en lien avec mes préférences et mes qualités
 
 **Image 5 :**  
 ![Première carrière](lien-de-l-image)  
 *Source : [Nom de la source]*
-
-> *(Animation : apparition avec rotation douce)*
 
 ---
 
@@ -89,19 +82,13 @@ Creatif
 - *Developpement logiciel*  
 -Bon si je suis a mon deuxième choix, je prenais un métier qui m’apporterais beaucoup d’argents. C’est métier que je n’adore pas, mais au moins j’aurai l’argent.
 
-
 **Image 6 :**  
 ![Deuxième choix de carrière](lien-de-l-image)  
 *Source : [Nom de la source]*
-
-> *(Transition : fondu enchaîné)*
-
 ---
 
 ## Diapositive 10 — Conclusion  
-- *Résumé de ton profil*  
-- *Vision pour le futur*  
-- *Comment TIM t’aidera à atteindre tes objectifs*
+-En conclusion, c’est que je veux être dans le 3D et moins sur les affaires trop technicals. De plus, de savoir ou d’aller avec certitude à cause du questionnaire.
 ---
 
 
