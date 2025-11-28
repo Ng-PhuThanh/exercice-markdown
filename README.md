@@ -13,7 +13,7 @@ Session Session 01/ Cours 10
 Jeux video
 Architecture
 Imagination
-<img width="308" height="216" alt="image" src="https://github.com/user-attachments/assets/9763d550-3116-4de2-b39c-5d5a9c9ab884" />
+*<img width="308" height="216" alt="image" src="https://github.com/user-attachments/assets/9763d550-3116-4de2-b39c-5d5a9c9ab884" />
 *  
 - *[Inspirations ou personnes qui t’ont influencé]*  
 
