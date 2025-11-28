@@ -87,9 +87,8 @@ Creatif
 
 ## Diapositive 9 — Mon second choix de carrière ou d’études  
 - *Developpement logiciel*  
-- *Bon si je suis a mon deuxième choix, je prenais un métier qui m’apporterais beaucoup d’argents. C’est métier que je n’adore pas, mais au moins j’aurai l’argent.
-<img width="2888" height="81" alt="image" src="https://github.com/user-attachments/assets/25270fe2-6dad-41d1-923d-c5a8f15eff9a" />
-*
+-Bon si je suis a mon deuxième choix, je prenais un métier qui m’apporterais beaucoup d’argents. C’est métier que je n’adore pas, mais au moins j’aurai l’argent.
+
 
 **Image 6 :**  
 ![Deuxième choix de carrière](lien-de-l-image)  
