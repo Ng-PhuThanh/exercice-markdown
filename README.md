@@ -8,11 +8,11 @@ Session Session 01/ Cours 10
 ---
 
 ## Diapositive 2 — Pourquoi j’ai choisi le programme TIM  
-- Aller dans les jeux videos  
--Creation
--Jeux video
--Architecture
--Imagination 
+Aller dans les jeux videos  
+- Creation
+- Jeux video
+- Architecture
+- Imagination 
 
 **Image 1 :**  
 ![Image liée à la motivation](lien-de-l-image)  
