@@ -9,12 +9,10 @@ Session Session 01/ Cours 10
 
 ## Diapositive 2 — Pourquoi j’ai choisi le programme TIM  
 - Aller dans les jeux videos  
-- *Creation
-Jeux video
-Architecture
-Imagination
-*<img width="308" height="216" alt="image" src="https://github.com/user-attachments/assets/9763d550-3116-4de2-b39c-5d5a9c9ab884" />
-*  
+-Creation
+-Jeux video
+-Architecture
+-Imagination
 - *[Inspirations ou personnes qui t’ont influencé]*  
 
 **Image 1 :**  
@@ -89,8 +87,10 @@ Creatif
 ---
 
 ## Diapositive 9 — Mon second choix de carrière ou d’études  
-- *[Autre voie possible]*  
-- *Comment ce choix reste cohérent avec tes compétences*
+- *Developpement logiciel*  
+- *Bon si je suis a mon deuxième choix, je prenais un métier qui m’apporterais beaucoup d’argents. C’est métier que je n’adore pas, mais au moins j’aurai l’argent.
+<img width="2888" height="81" alt="image" src="https://github.com/user-attachments/assets/25270fe2-6dad-41d1-923d-c5a8f15eff9a" />
+*
 
 **Image 6 :**  
 ![Deuxième choix de carrière](lien-de-l-image)  
@@ -104,17 +104,8 @@ Creatif
 - *Résumé de ton profil*  
 - *Vision pour le futur*  
 - *Comment TIM t’aidera à atteindre tes objectifs*
-
-> *(Animation : apparition du texte en trois segments)*
-
 ---
 
-## Exigences cochées  
-- Page de titre  
-- Texte structuré  
-- Transitions simples indiquées  
-- ≥ 5 animations intégrées dans la description  
-- ≥ 6 images avec emplacements et sources  
-- Mise en page propre, adaptable à ton moodboard
+
 
 
