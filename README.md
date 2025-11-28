@@ -39,9 +39,9 @@ Creatif
 ---
 
 ## Diapositive 5 — Mes faiblesses  
--Socialisation
+-*Socialisation
 -Tergivaser
--Travail d'equipe
+-Travail d'equipe*
 -Ce que je remarque en moi, la faiblesse majeure c’est de socialiser avec d’autres gens autour de moi. Car, une grande majorité des métiers, le travail d’équipe est le plus important.*
 
 ---
