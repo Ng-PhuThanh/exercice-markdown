@@ -80,7 +80,7 @@ Creatif
 -Bon si je suis a mon deuxième choix, je prenais un métier qui m’apporterais beaucoup d’argents. C’est métier que je n’adore pas, mais au moins j’aurai l’argent.
 
 **Image 6 :**  
-![Deuxième choix de carrière](lien-de-l-image)  
+![https://www.finoit.com/wp-content/uploads/2022/09/java-coding-best-practices-768x512.jpg)  
 *Source : [Nom de la source]*
 ---
 
