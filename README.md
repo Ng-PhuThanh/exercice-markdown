@@ -92,6 +92,6 @@ Creatif
 
 ---
 ## Diagramme et carte mentale
-![file:///C:/Users/ChingChong19/Downloads/diagramme_carte.svg)
+file:///C:/Users/ChingChong19/Downloads/diagramme_carte.svg
 
 
