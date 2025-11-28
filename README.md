@@ -81,7 +81,7 @@ Creatif
 
 **Image 6 :**  
 ![https://www.finoit.com/wp-content/uploads/2022/09/java-coding-best-practices-768x512.jpg)  
-*Source : [Nom de la source]*
+*Source : [Coding]*
 ---
 
 ## Diapositive 10 — Conclusion  
