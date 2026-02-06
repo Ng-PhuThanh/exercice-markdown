@@ -12,3 +12,6 @@ L'exposition du galerie de l'Université de Montreal est appelé "Devenirs parta
 
 ## Diapositive 3 — Lieu de mise en exposition
 Pour retrouver ce exposition, il est situé à Montreal où le lieu d'hébergement est à l'Université de Montreal,Centre d'exposition de l'Université de Montréal, Chemin de la Côte-Sainte-Catherine, Montreal QC H3T 1B4.
+
+## Diapositive 4 — Titre de l'oeuvre
+Dans l'exposition, il y a quatre oeuvres qui est exposé, cependant lequel qui captive mos intéretsl le plus est nommé Common ground en anglais et en francais Terre coomune.
